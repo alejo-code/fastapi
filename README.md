@@ -27,7 +27,7 @@ Factura API es un proyecto desarrollado con FastAPI para gestionar la generació
 1. Clona este repositorio:
 
    ```bash
-   git clone -b 14.0 https://github.com/alejo-code/fastapi/
+   git clone  https://github.com/alejo-code/fastapi/
    cd fastapi
    ```
 
